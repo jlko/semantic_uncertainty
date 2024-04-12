@@ -2,6 +2,7 @@
 
 This repository contains the code necessary to reproduce the short-phrase and sentence-length experiments of the Nature submission 'Detecting Hallucinations in Large Language Models Using Semantic Entropy'.
 
+This repository builds on the original, now deprecated codebase for semantic uncertainty at [https://github.com/lorenzkuhn/semantic_uncertainty](https://github.com/lorenzkuhn/semantic_uncertainty).
 
 ## System Requirements
 
