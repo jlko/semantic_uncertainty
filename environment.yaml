@@ -1,0 +1,42 @@
+name: semantic_uncertainty
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=11.8
+  - numpy
+  - transformers
+  - evaluate
+  - datasets
+  - pip:
+    - transformers>=4.31
+    - scikit-learn
+    - pandas
+    - flake8
+    - omegaconf
+    - jupyterlab
+    - notebook
+    - matplotlib
+    - seaborn
+    - tqdm
+    - ipywidgets
+    - scipy
+    - wandb
+    - tokenizers>=0.13.3
+    - accelerate
+    - ml_collections
+    - torchmetrics
+    - openai
+    - tiktoken
+    - einops
+    - bitsandbytes
+    - nltk
+    - tenacity
+    - sentencepiece
+    - safetensors
